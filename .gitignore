@@ -1,0 +1,10 @@
+config.py
+*.log
+/images/
+/stats/
+__pycache__/
+*.pyc
+.env
+*.docx
+*.txt
+*.zip
